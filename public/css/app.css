@@ -12021,6 +12021,12 @@ header .btn-header ul{
   width: 135px;
 }
 
+.data-container {
+  background-image: url('../img/home-bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+
 .weather-container{
   height: 600px;
 }
@@ -12029,6 +12035,4 @@ header .btn-header ul{
 }
 .weather-icon img{
   margin-left:-10px;
-}
-.weather-detail p strong {
 }
